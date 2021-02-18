@@ -13,7 +13,7 @@ export class Problems extends Component {
         Your Problems are Our Problems too
       </h3>
       <p className="mt-4 max-w-2xl text-xl leading-7 text-gray-500 lg:mx-auto">
-        Kami Sadar bahwa ada beberapa masalah yang muncul sebelum liburan, saat liburan, dan setelah liburan yang harus diselesaikan agar liburan semakin asik  
+        Kami Sadar bahwa ada beberapa masalah yang muncul sebelum, saat, dan setelah liburan yang harus diselesaikan agar liburan semakin asik.  
       </p>
     </div>
     <div className="mt-10">
@@ -28,7 +28,7 @@ export class Problems extends Component {
               </div>
             </div>
             <div className="ml-4">
-              <h4 className="text-lg leading-6 font-medium text-gray-900">Takut Budget Over</h4>
+              <h4 className="text-lg leading-6 font-medium text-gray-900">Takut Over Budget</h4>
               <p className="mt-2 text-base leading-6 text-gray-500">
                 Terkadang ekspetasi tidak sesuai realita, budget yang sudah diatur sedemikian rupa ternyata jadi berlebih, karna ada beberapa biaya yang tidak diperhitungkan namun cukup berpengaruh.
               </p>
@@ -46,9 +46,9 @@ export class Problems extends Component {
               </div>
             </div>
             <div className="ml-4">
-              <h4 className="text-lg leading-6 font-medium text-gray-900">Binggung Milih Destinasi Liburan & Males Nyusun Intinerary</h4>
+              <h4 className="text-lg leading-6 font-medium text-gray-900">Binggung Milih Destinasi Liburan</h4>
               <p className="mt-2 text-base leading-6 text-gray-500">
-                Lorem ipsum, dolor sit amet consectetur adipisicing elit. Maiores impedit perferendis suscipit eaque, iste dolor cupiditate blanditiis ratione.
+                Liburan Ke kota yang belum pernah kita kunjungi sebelumnya menjadi batasan untuk explore tempat-tempat disana. Tenang sekarang ada kita yang bantu kamu untuk liburan ke tempat-tempat yang sesuai keinginan kamu tanpa ribet nyari informasi terlebih dahulu.
               </p>
             </div>
           </div>
@@ -64,7 +64,7 @@ export class Problems extends Component {
             <div className="ml-4">
               <h4 className="text-lg leading-6 font-medium text-gray-900">Merasa Ga Aman Ketika Liburan</h4>
               <p className="mt-2 text-base leading-6 text-gray-500">
-                Lorem ipsum, dolor sit amet consectetur adipisicing elit. Maiores impedit perferendis suscipit eaque, iste dolor cupiditate blanditiis ratione.
+                Keamanan dan Kenyamanan Anda adalah hal terpenting untuk kami, dengan Gaskuy.ID liburan Anda pasti akan lebih bahagia tanpa harus <i>overthinking</i> di tempat liburan.
               </p>
             </div>
           </div>
@@ -82,7 +82,7 @@ export class Problems extends Component {
             <div className="ml-4">
               <h4 className="text-lg leading-6 font-medium text-gray-900">Males Nyusun Intinerary</h4>
               <p className="mt-2 text-base leading-6 text-gray-500">
-                Lorem ipsum, dolor sit amet consectetur adipisicing elit. Maiores impedit perferendis suscipit eaque, iste dolor cupiditate blanditiis ratione.
+                Sulitnya nyusun itinerary dengan segala keterbatasan dan perbedaan informasi menjadi alasan orang untuk menunda liburannya. Sekarang kamu bisa atur liburan mu sesuai dengan budget dan aktivitas liburannya.
               </p>
             </div>
           </div>

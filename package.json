@@ -12,7 +12,7 @@
     "json-server": "^0.16.2",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "react-ga": "^3.1.2",
+    "react-ga": "^3.3.0",
     "react-lottie": "^1.2.3",
     "react-router-dom": "^5.2.0",
     "react-scripts": "3.4.3"
@@ -23,7 +23,8 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "build:css": "postcss src/assets/tailwind.css -o src/assets/main.css",
-    "watch:css": "postcss src/assets/tailwind.css -o src/assets/main.css"
+    "watch:css": "postcss src/assets/tailwind.css -o src/assets/main.css",
+    "winBuild": "set \"GENERATE_SOURCEMAP=false\" && react-scripts build"
   },
   "eslintConfig": {
     "extends": "react-app"

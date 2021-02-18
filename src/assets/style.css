@@ -1,12 +1,7 @@
-@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
-@font-face{
-    font-family: 'Bondoni';
-    src: url('../assets/fonts/BOD_R.TTF');
-}
-.bg-city{
-    background: url('../assets/image/city-gaskuy.jpg');
+.bg-home{
+    background: url('../assets/image/amar-baco-XQA5rB4MDuw-unsplash.jpg');
     background-size: cover;
     background-position: center;
-    height: 30vh;
+    height: 90vh;
     width: 100%;
 }
